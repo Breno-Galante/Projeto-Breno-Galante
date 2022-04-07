@@ -59,6 +59,59 @@ body {
     margin-left: 20%;
 }
 
+.objetivos {
+    position: absolute;
+    width: 1350px;
+    height: 412px;
+    background: #E5E5E5;
+}
+
+.topicos{
+     width: 1084px;
+     height: 288px;
+     margin-left: 140px;
+     margin-right:140px;
+     margin-top: 55px;
+     display: flex;
+     justify-content: space-between;
+}
+
+.topicos .missao img{
+    width: 150px;
+}
+
+.missao{
+    width: 200px;
+    height: 288px;
+    left: 140px;
+    top: 662px;
+    text-align: center;
+}
+
+.topicos .visao img{
+    width: 150px;
+}
+
+.visao{
+    width: 200px;
+    height: 288px;
+    left: 140px;
+    top: 662px;
+    text-align: center;
+}
+
+.topicos .valores img{
+    width: 150px;
+}
+
+.valores{
+    width: 200px;
+    height: 288px;
+    left: 140px;
+    top: 662px;
+    text-align: center;
+}
+
 .footer {
     background-color: #32b9cd;
     color: white;
@@ -75,7 +128,7 @@ body {
     background-color: #E5E5E5;
     color: #E6005A;
     width: 400px;
-    height: 350px;
+    height: 400px;
     display: flex;
     flex-direction: column;
     align-items: center;
